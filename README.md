@@ -1,6 +1,6 @@
 <p>
   OpenAI Text-To-Speech service for the Freeswitch. <br>
-  A small installation guide can be found here: <a href="https://github.com/aks-devs/mod_openai_asr/issues/1">Fail to compile module</a>
+  A small installation guide can be found here: <a href="https://github.com/aks-tel/mod_openai_asr/issues/1">Fail to compile module</a>
 </p>
 
 ### Dialplan example
